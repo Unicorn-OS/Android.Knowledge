@@ -1,5 +1,5 @@
-# Flashing
-# Answer:
+# Flashing with ash shell
+## Quote:
 https://github.com/opengapps/opengapps/issues/135#issuecomment-146891100
 >Our package is not a standard flashable package that simply unpacks on top of /system. It has very advanced logic that requires the ash shell, as found in TWRP.
 >Many other recoveries miss some indispensable commands, and are not compatible with our package.
