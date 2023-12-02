@@ -1,8 +1,11 @@
 # Home
 https://github.com/opengapps/opengapps
 
-## search:
+# search:
 https://github.com/remote-android/redroid-doc/issues?q=opengapps
+
+## build:
+https://github.com/remote-android/redroid-doc/issues/48
 
 # install:
 sch: https://www.google.com/search?q=opengapps+install
