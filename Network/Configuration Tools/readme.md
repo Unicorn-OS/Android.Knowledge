@@ -1,1 +1,2 @@
 # [Network stack configuration tools](https://source.android.com/docs/core/architecture/hidl/network-stack#:~:text=The%20Android%20operating%20system%20contains,image%20while%20guaranteeing%20predictable%20behaviour.)
+>The Android operating system contains standard Linux networking utilities such as ifconfig, ip, and ip6tables. These utilities reside on the system image and enable configuration of the entire Linux networking stack. On devices running Android 7.x and lower, vendor code is allowed to call these binaries directly, which presents the following problems:
