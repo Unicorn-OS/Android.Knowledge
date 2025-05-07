@@ -5,4 +5,4 @@
 >
 >I was all set and ready to buy either a HUAWEI B818 or HUAWEI 5G CPE Pro 2 but won't need to now.
 >
->I'm currently using my old pixel 2 xl with a Linksys USB 3.0 Gigabit Ethernet Adapter and the ethernet tethering is working perfectly connected to my home router (edge router x). Just to confirm I'm also using a usb c hub with my pixel 2 xl so I can charge the phone and use the ethernet adapter at the same time.
+>I'm currently using my old pixel 2 xl with a Linksys USB 3.0 Gigabit Ethernet Adapter and the ethernet tethering is working perfectly connected to my home router (edge router x). Just to confirm **I'm also using a usb c hub with my pixel 2 xl so I can charge the phone and use the ethernet adapter at the same time**.
